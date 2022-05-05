@@ -4,7 +4,7 @@
   "repository": "https://github.com/volpe28v/TaskTreemap",
   "keywords": ["node", "socket.io", "tasklist", "treemap"],
   "addons": [
-    "mongolab"
+    "mlab"
   ],
   "env": {
     "BASIC_AUTH_USER": {
